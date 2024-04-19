@@ -1,0 +1,66 @@
+*{
+    color: whitesmoke;
+
+}
+
+#one{
+    margin-right: 0px;
+    padding-right: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-family: Verdana;
+}
+
+#two{
+    margin: 30PX;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+span{
+    padding: 60px;
+    border: 2px solid black;
+}
+
+#red{
+    background-color: Red;
+}
+
+#green{
+    background-color: Green;
+}
+
+#blue{
+    background-color: Blue;
+}
+
+#Yellow{
+    background-color: Yellow;
+}
+
+#Purple{
+    background-color: Purple;
+}
+
+#Cyan{
+    background-color: Cyan;
+}
+
+#Orange{
+    background-color: Orange;
+}
+
+#Pink{
+    background-color: Pink;
+}
+
+#Brown{
+    background-color: Brown;
+}
+
+#Teal{
+    background-color: Teal;
+}
