@@ -1,0 +1,49 @@
+* {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+h1,h3 {
+    color: yellow;
+}
+
+input {
+    background-color: white;
+    color: black;
+    font-size: larger;
+    font-weight: 600;
+    border: 2px solid black;
+}
+
+p {
+    font-size: larger;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid whitesmoke;
+    font-size: larger;
+    font-weight: 700;
+    background-color: black;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
+button:hover{
+    background-color: whitesmoke;
+    color: teal;
+    border: 1px solid black;
+}
+
+#weight {
+    margin-top: 7px;
+}
+
+#result{
+    
+    padding: 7px;
+    font-size: 25px;
+    margin-top: 5px;
+    color: black;
+    font-weight: 700;
+}
