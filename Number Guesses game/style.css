@@ -1,0 +1,107 @@
+* {
+    background-color: #E3E2DF;
+    color: #3c2f60;
+}
+
+body {
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+form {
+    border: 4px solid #5D001E;
+    border-radius: 9px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 580px;
+}
+
+h1 {
+    color: #5955b3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+#subt {
+    padding: 7px 12px;
+    background-color: #5955b3;
+    border: none;
+    border-radius: 6px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 200px;
+    margin-top: 16px;
+}
+
+#subt:hover {
+    cursor: pointer;
+}
+
+input {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    border: 3px solid black;
+    border-radius: 4px;
+}
+
+#guess {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.guesses {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.startbutn {
+    color: red;
+    background-color: #5955b3;
+    border: none;
+    border-radius: 6px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    width: 180px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 170px;
+    margin-top: 16px;
+    padding: 10px;
+    padding-left: 32px;
+}
+
+.startbutn:hover {
+    cursor: pointer;
+}
